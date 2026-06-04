@@ -7,7 +7,7 @@
 
 This is a **public repository** for the Computer Vision course final project, containing 9 comprehensive sub-projects covering fundamental and advanced topics in computer vision.
 
-![Submission Deadline](https://github.com/yx-seu/Lecture-of-Fundamentals-of-Computer-Vision/2026/images.png?raw=true)
+![Submission Deadline](images.png?raw=true)
 
 ## 🎯 Project Goals
 
